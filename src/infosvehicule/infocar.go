@@ -6,5 +6,9 @@ import (
 )
 
 func main(){
-	log.Println(siv.GetCarInfo(""))
+
+	siv.NewCarInfo()
+	siv.NewCarInfo()
+
+	log.Println(siv.NumVehicles())
 }
