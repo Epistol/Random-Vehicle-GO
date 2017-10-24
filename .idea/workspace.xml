@@ -24,10 +24,10 @@
       <file leaf-file-name="infocar.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/infosvehicule/infocar.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="230">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
-                <element signature="e#14#47#0" expanded="true" />
+                <element signature="e#14#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,10 +36,10 @@
       <file leaf-file-name="siv.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/services/siv/siv.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="-483">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
-                <element signature="e#13#43#0" expanded="true" />
+                <element signature="e#13#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,7 +186,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#14#47#0" expanded="true" />
+            <element signature="e#14#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -196,7 +196,7 @@
         <state relative-caret-position="207">
           <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="e#13#43#0" expanded="true" />
+            <element signature="e#13#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -213,6 +213,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="91" column="5" lean-forward="false" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -237,22 +238,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Go/src/math/rand/rand.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="276" column="50" lean-forward="true" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/infosvehicule/infocar.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="230">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
-            <element signature="e#14#47#0" expanded="true" />
+            <element signature="e#14#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/services/siv/siv.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="-483">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="e#13#43#0" expanded="true" />
+            <element signature="e#13#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
